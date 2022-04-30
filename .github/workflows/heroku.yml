@@ -14,6 +14,6 @@ jobs:
       - uses: akhileshns/heroku-deploy@master # This is the action
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "awslinke001" #Must be unique in Heroku
+          heroku_app_name: "awslinke002" #Must be unique in Heroku
           heroku_email: ${{secrets.HEROKU_EMAIL}}
           usedocker: true
