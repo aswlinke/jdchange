@@ -2,7 +2,7 @@
 subconverter自动部署到heroku
 
 部署到heroku
-subconverter-heroku：https://github.com/BlueHtml/subconverter-heroku
+subconverter-heroku：https://github.com/aswlinke/jdchange
 
 步骤如下：
 
